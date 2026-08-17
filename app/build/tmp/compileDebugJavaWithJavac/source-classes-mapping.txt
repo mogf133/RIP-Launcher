@@ -1,0 +1,11 @@
+com/rip/launcher/R.java
+ com.rip.launcher.R
+ com.rip.launcher.R$style
+com/rip/launcher/BuildConfig.java
+ com.rip.launcher.BuildConfig
+com/rip/launcher/MainActivity.java
+ com.rip.launcher.MainActivity
+ com.rip.launcher.MainActivity$1
+ com.rip.launcher.MainActivity$2
+ com.rip.launcher.MainActivity$3
+ com.rip.launcher.MainActivity$3$1
